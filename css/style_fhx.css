@@ -47,7 +47,7 @@ width : 973px;
 height : 46px;
 display : none;
 position : absolute;
-background : url(images/slide-bg.png) 0 0;
+background : url(../images/slide-bg.png) 0 0;
 }
 div#header div#slide-holder div#slide-controls p.text {
 float : left;
@@ -81,5 +81,5 @@ div#header div#slide-holder div#slide-controls p#slide-nav a.on {
 background-position : 0 -24px;
 }
 div#header div#slide-holder div#slide-controls p#slide-nav a {
-background-image : url(images/silde-nav.png);
+background-image : url(../images/silde-nav.png);
 }
