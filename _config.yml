@@ -1,0 +1,8 @@
+title: 小霞的前端路 - GitHub.io
+description: 小霞的前端路
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
